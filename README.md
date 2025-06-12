@@ -1,24 +1,24 @@
 # Título del proyecto
 
 <p>
-    <img src="" alt="Imagen del proyecto">
+    <img src="https://github.com/amerca9664/3-card-preview-styled-components/blob/main/design/desktop-design.jpg?raw=true" alt="Imagen del proyecto">
 </p>
 
 ## Vista en vivo
 
 <ul>
     <li>
-        <a target="_blank" href="">Vista en vivo</a>
+        <a target="_blank" href="https://three-card-preview-styled-components.onrender.com">Vista en vivo</a>
     </li>
 </ul>
 
 ## Descripción 📑
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+Proyecto de practica donde se tiene que mostrar una tarjeta en diferenters estilos.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+Aprendi la diferencia entre css modules y styled components, aunque ha sido algo molesto por la cantidad de rutas que hay que agregar al proyecto, creo que estoy entendiendo porque tanta modularidad.
 
 ## Tecnologías 🛠
 
@@ -36,9 +36,9 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 ## Capturas del proyecto
 
 <p>
-   <img src="" alt="Captura del proyecto">
-   <img src="" alt="Captura del proyecto">
-   <img width="200" src="" alt="Captura del proyecto">
+   <img src="https://raw.githubusercontent.com/amerca9664/3-card-preview-styled-components/refs/heads/main/design/desktop-design.jpg" alt="Captura del proyecto">
+   <img src="https://raw.githubusercontent.com/amerca9664/3-card-preview-styled-components/refs/heads/main/design/active-states.jpg" alt="Captura del proyecto">
+   <img width="200" src="https://raw.githubusercontent.com/amerca9664/3-card-preview-styled-components/refs/heads/main/design/mobile-design.jpg" alt="Captura del proyecto">
 </p>
 
 ## Autor ✒️
@@ -59,7 +59,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 
 ## Link del reto
 
-<a href="">Página de frontendmentor</a>
+<a href="https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-">Página de frontendmentor</a>
 
 ## Instalación
 
