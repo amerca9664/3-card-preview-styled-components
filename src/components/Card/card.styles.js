@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { COLORS } from '../../styles/colors.JS';
+import { COLORS } from '/src/styles/colors.js';
 
 const StyledDiv = styled.div`
     background-color: ${({color}) => color};
