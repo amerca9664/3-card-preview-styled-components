@@ -6,14 +6,14 @@ import {
 	StyledButton
 } from './card.styles';
 
-const Card = ({ title, image, children }) => {
+const Card = ({ color, title, image, children }) => {
 	return (
 		<>
-			<StyledDiv color='red'>
+			<StyledDiv color={color}>
 				<StyledImg src={`/assets/images/${image}`} alt={`icon ${title}`} />
 				<StyledH2>{title}</StyledH2>
 				<StyledP>{children}</StyledP>
-				<StyledButton>Learn more</StyledButton>
+				<StyledButton color={color}>Learn more</StyledButton>
 			</StyledDiv>
 		</>
 	);

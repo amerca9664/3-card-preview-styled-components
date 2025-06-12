@@ -1,5 +1,5 @@
 import { createGlobalStyle } from "styled-components";
-import './normalize.css'
+
 export const GlobalStyles = createGlobalStyle`
 *, *::before, *::after {
   box-sizing: border-box;
@@ -20,5 +20,17 @@ ul{
 a{
     text-decoration: none;
     color: inherit;
+}
+
+.contenedorCards{
+    width: 100vw;
+    max-width: 900px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    overflow: hidden;
 }`
 
