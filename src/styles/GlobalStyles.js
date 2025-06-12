@@ -9,6 +9,9 @@ body{
     font-family: "Lexend Deca", sans-serif;
 }
 
+h1,h2,h3{
+    font-family: "Big Shoulders", sans-serif;
+}
 
 img{
     max-width: 100%;
